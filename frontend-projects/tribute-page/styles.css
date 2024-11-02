@@ -3,3 +3,9 @@
     max-width: 960px !important;
   }
 }
+
+.img-strap {
+  height: 300px !important;
+  width: 100%;
+  object-fit: cover;
+}
